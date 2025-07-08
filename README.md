@@ -1,5 +1,7 @@
 # Personal-Website
-This is a personal portfolio website built using HTML, CSS, and JavaScript
+This is a personal portfolio website built using HTML, CSS, and JavaScript.
+
+![MyWebsite](https://github.com/user-attachments/assets/c7eb7709-36a5-4ebe-8afa-2f457d926bdf)
 
 Key Features:
 
